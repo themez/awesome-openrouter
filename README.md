@@ -9,6 +9,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 
 - [AiAssistWorks](#aiassistworks)
 - [Aider](#aider)
+- [BoltAI](#boltai)
 - [Chorus](#chorus)
 - [GitHub Copilot](#github-copilot)
 - [Kilo Code](#kilo-code)
@@ -42,6 +43,18 @@ AI pair programming in your terminal that lets you work with LLMs to build on yo
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/Aider-AI/aider)
 
 [Documentation](https://aider.chat/docs/llms/openrouter.html)
+
+---
+
+### [BoltAI](https://boltai.com)
+
+<img src="./apps/boltai/logo.png" alt="BoltAI logo" width="64" height="64">
+
+The best AI app for Mac. Instantly switch between 300+ AI models, from a single native app.
+
+`chat`
+
+[Documentation](https://help.boltai.com/articles/2327851-how-to-use-openrouter-in-boltai)
 
 ---
 
