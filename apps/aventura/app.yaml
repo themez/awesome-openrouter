@@ -1,8 +1,8 @@
 name: "Aventura"
 description: "A free, open source AI adventure and creative writing app"
 url: "aventura.camp"
-docs: "http://aventura.camp/setup/"  # Link to OpenRouter setup instructions
+docs: "http://aventura.camp/setup/"  
 tags:
-  - creative  # Choose from: chat, coding, productivity, creative, research, other
-open_source: "https://github.com/unkarelian/Aventura"  # Optional: remove if not open source
-date_added: "2025-01-14"  # Use today's date in YYYY-MM-DD format
+  - creative  
+open_source: "https://github.com/unkarelian/Aventura"  
+date_added: "2025-01-14"  
