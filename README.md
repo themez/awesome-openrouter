@@ -16,6 +16,7 @@ A curated list of apps and tools that work with [OpenRouter](https://openrouter.
 - [Kilo Code](#kilo-code)
 - [LibreChat](#librechat)
 - [Mastra](#mastra)
+- [nanocode](#nanocode)
 - [Novelcrafter](#novelcrafter)
 - [Ottex](#ottex)
 - [Roo Code](#roo-code)
@@ -130,6 +131,18 @@ An open-source TypeScript framework for building AI-powered applications and age
 `coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/mastra-ai/mastra)
 
 [Documentation](https://mastra.ai/docs/frameworks/agentic-uis/openrouter)
+
+---
+
+### [nanocode](https://github.com/1rgs/nanocode)
+
+<img src="./apps/nanocode/logo.png" alt="nanocode logo" width="64" height="64">
+
+Minimal Claude Code alternative. Single Python file, zero dependencies, ~250 lines. Full agentic coding loop with tools for read, write, edit, glob, grep, and bash.
+
+`coding` [![Open Source](https://img.shields.io/badge/Open%20Source-green)](https://github.com/1rgs/nanocode)
+
+[Documentation](https://github.com/1rgs/nanocode#openrouter)
 
 ---
 
